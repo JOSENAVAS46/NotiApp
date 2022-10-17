@@ -1,0 +1,28 @@
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.exe
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.deps.json
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.runtimeconfig.json
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.runtimeconfig.dev.json
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.dll
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.pdb
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.AssemblyInfo.cs
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.dll
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.pdb
+C:\Users\Desarrollo\source\repos\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.genruntimeconfig.cache
+E:\JFNO\C# Projects\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.exe
+E:\JFNO\C# Projects\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.deps.json
+E:\JFNO\C# Projects\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.runtimeconfig.json
+E:\JFNO\C# Projects\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.runtimeconfig.dev.json
+E:\JFNO\C# Projects\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.dll
+E:\JFNO\C# Projects\notiapp\notiapp\bin\Debug\netcoreapp3.1\notiapp.pdb
+E:\JFNO\C# Projects\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.csproj.AssemblyReference.cache
+E:\JFNO\C# Projects\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\JFNO\C# Projects\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.AssemblyInfoInputs.cache
+E:\JFNO\C# Projects\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.AssemblyInfo.cs
+E:\JFNO\C# Projects\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.csproj.CoreCompileInputs.cache
+E:\JFNO\C# Projects\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.dll
+E:\JFNO\C# Projects\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.pdb
+E:\JFNO\C# Projects\notiapp\notiapp\obj\Debug\netcoreapp3.1\notiapp.genruntimeconfig.cache
